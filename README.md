@@ -1,6 +1,3 @@
-Here is a well-structured `README.md` file for your project:
-
----
 
 # **Mini Data Query Simulation Engine** 🚀  
 A lightweight backend service that simulates an AI-powered data query processing system with JWT authentication.
@@ -161,5 +158,3 @@ curl -X POST http://127.0.0.1:5000/query \
 This project is licensed under the MIT License.
 
 ---
-  
-🚀 **Happy Coding!** Let me know if you need any modifications! 😊
